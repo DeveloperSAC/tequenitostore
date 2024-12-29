@@ -59,9 +59,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 Si tienes dudas, sugerencias o quieres colaborar, no dudes en contactarme:
-- **Correo:** tuemail@ejemplo.com
-- **GitHub:** [SadracAponte](https://github.com/SadracAponte)
-- **LinkedIn:** [SadracAponte](https://linkedin.com/in/SadracAponte)
+- Correo: zadracvillani@gmail.com
+- GitHub: [DeveloperSac](https://github.com/SadracAponte)
+- LinkedIn: [SadracAponte](https://linkedin.com/in/SadracAponte)
 
 ---
 
