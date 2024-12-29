@@ -1,6 +1,7 @@
 # Tequeñito Store PRO
 
-![Tequeñito Store PRO](https://via.placeholder.com/800x200.png?text=Teque%C3%B1ito+Store+PRO)
+![Tequeñito Store PRO]git add assets/images/banner_tequenito.png
+
 
 ## Descripción del Proyecto
 Tequeñito Store PRO es una tienda en línea profesional y robusta diseñada para facilitar la venta y personalización de productos adaptados a la cultura de Venezuela y Chile. Este proyecto se centra en ofrecer una experiencia de usuario segura, eficiente y amigable.
